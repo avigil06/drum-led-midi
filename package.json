@@ -1,0 +1,22 @@
+{
+  "name": "midi-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "color": "^4.1.0",
+    "easymidi": "^2.1.0",
+    "oled-font-5x7": "^1.0.3",
+    "oled-js-pi": "^1.0.5",
+    "onoff": "^6.0.3",
+    "rpi-ws281x": "^1.0.36"
+  }
+}
