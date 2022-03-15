@@ -28,3 +28,19 @@ Generic MIDI to USB Cable - We need to get that MIDI signal to the raspberry pi 
 5v DC Power Supply - Those LEDs are hungry and we need to give them reliable power. I think this one was 15 amps at 5v.
 
 ## Project Gallery
+
+![66508322178__26C1167F-C2B1-45BF-8EBC-F35088747A89](https://user-images.githubusercontent.com/14132880/158407315-b74e03a1-e955-4dd1-acf9-1476560de0b0.JPG)
+
+![66516498295__514A28B8-076C-4C35-BD15-F2536A09F748](https://user-images.githubusercontent.com/14132880/158407323-5db7b412-e7de-457d-b73a-decac59e16fc.JPG)
+
+![IMG_3299](https://user-images.githubusercontent.com/14132880/158407331-9c380102-b8b1-4915-aee5-b95857f1a10d.JPG)
+
+![IMG_3305](https://user-images.githubusercontent.com/14132880/158407304-382c87be-7022-411a-9da4-74156efa0d21.JPG)
+
+![IMG_3310](https://user-images.githubusercontent.com/14132880/158407337-da69cf93-5f1e-4d7c-8615-bc415d8a927b.JPG)
+
+![IMG_3307](https://user-images.githubusercontent.com/14132880/158407343-196ad80a-c031-4dff-96f3-5eec52a23133.JPG)
+
+![IMG_3336 2](https://user-images.githubusercontent.com/14132880/158407913-25d1c6a8-3464-4713-9c47-b1f8a49be0b1.JPG)
+
+![IMG_3368 2](https://user-images.githubusercontent.com/14132880/158407925-317c71c6-0bc7-4ceb-8a27-ac5901e95e50.PNG)
