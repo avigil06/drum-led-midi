@@ -14,7 +14,7 @@ A combination of music and technology
 This project was born out of a lack of branding for my Church Praise Band. My father in law is the drummer for this band and he uses a Rolands electronic drum kit.
 This makes for messy wires and ugly scaffolding as the most prominent piece of equipment on stage.
 
-Most live bands will usually put the branding on the front head of the kick drum. Since my father in laws kick drum was a small peddle with a 6 inch pad in front of it,
+Most live bands will usually put the branding on the front head of the kick drum. Since my father in laws kick drum was a small pedal with a 6 inch pad in front of it,
 this was not going to work.
 
 
