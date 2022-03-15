@@ -1,6 +1,6 @@
 # drum-led-midi
+A combination of music and technology
 
-## Demo Link
 [Stallings UMC](https://youtu.be/IWWZYP6lm0k?t=2301)
 
 
