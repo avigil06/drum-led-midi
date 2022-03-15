@@ -3,6 +3,13 @@
 ## Demo Link
 [Stallings UMC](https://youtu.be/IWWZYP6lm0k?t=2301)
 
+
+![Mar-15-2022 11-26-04 intro](https://user-images.githubusercontent.com/14132880/158412579-d31e6254-504b-4131-868d-cd07d765ea66.gif)
+
+
+![Mar-15-2022 11-25-40](https://user-images.githubusercontent.com/14132880/158412607-91cabe65-a40e-46fe-b77a-7616e1f43e2f.gif)
+
+
 ## The Backstory
 This project was born out of a lack of branding for my Church Praise Band. My father in law is the drummer for this band and he uses a Rolands electronic drum kit.
 This makes for messy wires and ugly scaffolding as the most prominent piece of equipment on stage.
