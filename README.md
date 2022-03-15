@@ -1,5 +1,8 @@
 # drum-led-midi
 
+## Demo Link
+[Stallings UMC](https://youtu.be/IWWZYP6lm0k?t=2301)
+
 ## The Backstory
 This project was born out of a lack of branding for my Church Praise Band. My father in law is the drummer for this band and he uses a Rolands electronic drum kit.
 This makes for messy wires and ugly scaffolding as the most prominent piece of equipment on stage.
