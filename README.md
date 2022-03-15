@@ -30,12 +30,12 @@ I decided I would use addressable LEDs and the MIDI output to create a build and
 As the drummers energy is reduced, the LEDs will decay until they have no brightness.
 
 ## The components
-Rolands MIDI output - This is the signal which will drive the LEDs.
-WS2812b - These are the individuall addressable LEDs. Each LED can be a different color than the next,
-Raspberry Pi 2 - This will process the MIDI signal and convert it to a light animation.
-Sound Percussion 22 inch Bass Drum - I needed a cheap shell I could destroy, paint, and mount electronics in.
-Generic MIDI to USB Cable - We need to get that MIDI signal to the raspberry pi somehow.
-5v DC Power Supply - Those LEDs are hungry and we need to give them reliable power. I think this one was 15 amps at 5v.
+- Rolands MIDI output - This is the signal which will drive the LEDs.
+- WS2812b - These are the individuall addressable LEDs. Each LED can be a different color than the next,
+- Raspberry Pi 2 - This will process the MIDI signal and convert it to a light animation.
+- Sound Percussion 22 inch Bass Drum - I needed a cheap shell I could destroy, paint, and mount electronics in.
+- Generic MIDI to USB Cable - We need to get that MIDI signal to the raspberry pi somehow.
+- 5v DC Power Supply - Those LEDs are hungry and we need to give them reliable power. I think this one was 15 amps at 5v.
 
 ## Project Gallery
 
